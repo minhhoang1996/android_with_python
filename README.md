@@ -11,9 +11,9 @@ cannot connect to Bluetooth and play music by themselves.
  
 
 Development environment:
-# python3 -m venv .venv
-# source ./.venv/bin/activate
-# python -m pip install kivy
+cml# python3 -m venv .venv
+cml# source ./.venv/bin/activate
+cml# python -m pip install kivy
 
 Refer:
 - https://kivy.org/doc/stable/api-kivy.uix.label.html
